@@ -9,6 +9,8 @@ import UIKit
 
 class ViewController: UIViewController {
     
+    // I'm blue
+    // Da ba dee da ba di
     let blueView = UIView()
 
     override func viewDidLoad() {
