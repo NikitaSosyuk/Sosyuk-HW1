@@ -8,10 +8,14 @@
 import UIKit
 
 class ViewController: UIViewController {
+    
+    // I'm blue
+    // Da ba dee da ba di
+    let blueView = UIView()
 
     override func viewDidLoad() {
         super.viewDidLoad()
-        // Do any additional setup after loading the view.
+        print("LIFECYCLE: view did load")
     }
 
 
