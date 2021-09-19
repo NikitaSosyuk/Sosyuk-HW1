@@ -8,6 +8,8 @@
 import UIKit
 
 class ViewController: UIViewController {
+    
+    let redView = UIView()
 
     override func viewDidLoad() {
         super.viewDidLoad()
