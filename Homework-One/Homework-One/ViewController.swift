@@ -9,7 +9,7 @@ import UIKit
 
 class ViewController: UIViewController {
     
-    let redView = UIView()
+    let blueView = UIView()
 
     override func viewDidLoad() {
         super.viewDidLoad()
